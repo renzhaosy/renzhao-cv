@@ -22,9 +22,7 @@
 
 ##### [成都娄外科技（西瓜创客）](https://www.xiguacity.cn/)
 
-**在职时间:** 2019.09 - 至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**岗位:** 前端工程师&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-运营业务 / 前端基础设施
+**在职时间:** 2019.09 - 至今&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**岗位:** 前端工程师&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;运营业务 / 前端基础设施
 
 **技术栈：** `React、React-Router 、微信小程序等`
 
@@ -35,14 +33,11 @@
 - 前端埋点方案 SDK，提供兼容多平台（Web 端、微信小程序、支付宝小程序）的前端埋点上报 SDK
 - 维护 前端打包工具（基于 webpack）、http 库等前端开发工具
 
-##### [Strikingly](https://www.strikingly.com)/[上线了](https://www.sxl.cn)
+##### [Strikingly](https://www.strikingly.com) / [上线了](https://www.sxl.cn)
 
-**在职时间:** 2018.05 - 2019.05&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**岗位:** 前端工程师&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**在职时间:** 2018.05 - 2019.05&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**岗位:** 前端工程师&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;统筹组内前端开发 / 业务调研、开发 / test meeting
 
 **技术栈：** `ES6、React、React-Router、Redux、TypeScript、Webpack、微信小程序等`
-
-统筹组内前端开发 / 业务调研、开发 / test meeting
-敏捷开发，文档清晰、代码结构合理，两周迭代内高质量完成项目交付。
 
 主要成果包括不限于：
 
@@ -54,11 +49,9 @@
 
 ##### [携程旗下 - 途风网](https://cn.toursforfun.com)
 
-**在职时间:** 2016.03 - 2018.05&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**岗位:** 前端工程师&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**在职时间:** 2016.03 - 2018.05&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**岗位:** 前端工程师&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;官网维护 / 业务调研开发 / 性能优化 / 组件库维护 / 前端基础建设
 
 **技术栈：** `jQuery、art-template、angular、vue、webpack、less、SeaJS`
-
-官网维护 / 业务调研开发 / 性能优化 / 组件库维护 / 前端基础建设
 
 主要成果包括不限于：
 
